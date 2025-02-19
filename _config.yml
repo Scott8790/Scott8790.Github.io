@@ -3,9 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Passionate about data and how it can improve businesses
   <br><br>
-  Excel | SQL | Tableau | Python | R
-  Data Analytics | Data Visualizations
-
+  Excel | SQL | Tableau | Python | R | Data Analytics | Data Visualizations
+  <br><br>
   <a href="https://www.linkedin.com/in/smsilvey/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
