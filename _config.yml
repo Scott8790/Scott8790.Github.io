@@ -1,8 +1,10 @@
-title: Zeina Roz # your name (or website title) here
+title: Scott Silvey # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  Passionate about data and how it can improve businesses
+  <br><br>
+  Excel | SQL | Tableau | Python | R
+  Data Analytics | Data Visualizations
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
