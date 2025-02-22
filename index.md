@@ -1,6 +1,9 @@
 # Welcome to My Portfolio
 
 ---
+#### [World Bank SQL Analysis](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project
 
 ### Learn About My Projects
 
