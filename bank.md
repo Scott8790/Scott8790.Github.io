@@ -33,6 +33,7 @@ This basically says that all the money going to these projects in the data are d
 To begin, I cleaned what I could from the data to remove any irrelevant information. I was strictly searching for the data to answer my three key questions above.
 
 1. India, Bangledesh, and Pakistan have the most debt due to the IDA from projects. This can be explained due to them having the most projects.
+
    <img src="Bank_Vissuals/queryanswer1.jpg?raw=true"/>
 
    <img src="Bank_Vissuals/resultanswer1.jpg?raw=true"/>
