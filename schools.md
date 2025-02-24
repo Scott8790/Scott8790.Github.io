@@ -58,3 +58,6 @@ Through this project, I learned a lot about the educational landscape in Massach
 
 ### Call To Action
 I’d love to hear your thoughts on this important topic! Connect with me on LinkedIn if you’re interested in data analysis or education policy. If you know someone looking to hire a data analyst or if you have questions about my findings, feel free to reach out or leave a comment. 
+
+
+[<img src="images/Button.jpg?raw=true"/>](/index.md).
