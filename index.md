@@ -6,7 +6,7 @@
 
 ### Investigating IDA loans. Used SQL to discover insightful info from the World Bank's IDA statement of credits and grants for Nov 2022. Discovered countries with the most debt, which ones paid their loans back the most, and the names of some top funded projects. These insights can provide useful info to the World Bank stakeholders on creditworthiness for certain countries.
 
-### Learn About My Projects
+### Analyzation of Massachusetts high schools and how effective their education is for their students.
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
