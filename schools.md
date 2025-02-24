@@ -48,7 +48,7 @@ Link to [Tableau Dashboard](https://public.tableau.com/app/profile/scott.silvey/
 
 **Line Chart**: Finally, the line chart illustrates average MCAS math test scores across school districts. The red line shows the threshold of 50%, and it’s alarming how many districts fall below this. This situation calls for collaboration between high-performing and struggling districts to share strategies for improvement.
 
-**Video of me going over the dashboard I created in Tableau** https://www.loom.com/share/9e623ab0c745438ba8733218212a8614
+**[Video of me going over the dashboard I created in Tableau](https://www.loom.com/share/9e623ab0c745438ba8733218212a8614)**
 
 ### Main Takeaways
 Education in high school is a significant factor in a child's future. The findings from my research indicate that performance metrics in schools should be a priority for parents when deciding where to live and raise their families. It’s crucial for us to advocate for better educational standards and push for improvements in our local schools. I would encourage parents to investigate the local schools and evaluate their performance before deciding to move in that area. There are good and bad schools everywhere, I am just emphasizing to do your research before making a big life decision like choosing where to live and where your kids will be going to school.
