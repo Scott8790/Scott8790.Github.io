@@ -1,5 +1,6 @@
 # Welcome to My Portfolio
-
+I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize some of these programs to analyze data.
+<img src="images/software_skills_logos.png"/>
 ---
 # [CLICK HERE to read full article](/bank.md)
 <img src="Bank_Vissuals/The-world-bank-7c51155a361e1efba7c704d19b6a5aca.png"/>
