@@ -67,3 +67,4 @@ SQL is a very powerful tool to analyze large datasets. I can't wait to learn mor
 ## Call to Action
 If you enjoyed this article or found it interesting, i encourage you to connect with me on [LinkedIn](www.linkedin.com/in/smsilvey). Also, if you know of anyone who is hiring a data analyst, let's talk. I would like to hear your thoughts on my analysis or any questions you may have.
 
+[<img src="images/Button.jpg?raw=true"/>](/index.md).
