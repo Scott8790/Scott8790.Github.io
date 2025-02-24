@@ -12,40 +12,11 @@ I am proficient in the following software and I am always curious and willing to
 
 ### Analyzation of Massachusetts high schools and how effective their education is for their students. I used Tableau to create data visualizations and a dashboard to help offer some useful insights to the DOE Superintendent and state officials regarding their schools and their academic performance. Analysis reveals 162,137 students didn't graduate, while 585,791 pursued higher education. Recommendations on enhancing assistance programs, and college collaboration for educational optimization.
 
-#### [Internal Blog Post Project](/sample_project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-This project
+# [CLICK HERE to read full article](/doordash.md)
+<img src="doordash_visuals/doordash_logo.jpg"/>
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+### Analyzed dataset from iFood, a Brazilian equivalent of DoorDash, marketing campaigns and their performances. I used Excel to clean and analyze the data. I used Excel skills such as Pivot Tables, VLOOKUP, XLOOKUP, Pivot Charts, creating various types of charts, conditional formatting, creating and using filters, etc. I love Excel and continue to learn more tips and tricks with it to help provide insightful analysis to stakeholders.
 
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
