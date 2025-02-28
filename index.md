@@ -2,6 +2,12 @@
 I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize some of these programs to analyze data.
 <img src="images/software_skills_logos.png"/>
 ---
+
+# [CLICK HERE to read full article](/healthcare.md)
+<img src="healthcare_visuals/titleimage.jpg"/>
+
+### This project analyzes diabetic patient data from 1999-2008. That is 10 years of clinical care data across 130 US hospitals. This was a rich dataset with plenty of data to go through. I was able to analyze it using MySQL to come up with some interesting insights that the hospital management and leadership team could use to help improve operations and improve patient care.
+
 # [CLICK HERE to read full article](/bank.md)
 <img src="Bank_Vissuals/The-world-bank-7c51155a361e1efba7c704d19b6a5aca.png"/>
 
