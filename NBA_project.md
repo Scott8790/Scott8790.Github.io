@@ -29,7 +29,7 @@ My analysis involved several steps, including data cleaning, transformation, and
 ## Visuals and Insights
 
 
-<img src="NBA_project_visuals/heatmap_3p%.png?raw=true"/>
+<img src="NBA_project_visuals/heatmap_3p.png?raw=true"/>
 
 Heatmap: Team 3-pt % split by position. Outliers of UTA C and ATL C are interesting due to the lack of attempts at shooting 3-pointers. Atlanta had only one player actively shooting 3 point shots. Utah only had one player attempt to shoot a 3-pointer, Rudy Gobert, and that was only four attempts. Zero of his attempts made it through the net. It is important to take another look at the outliers in your data and try to make sense of it or to see if there was an error in the data. The more realist 3P% as you can see in the chart is in the 30% range and that goes for all 5 positions interestingly enough. This tells me that all positions in basketball have a good chance to attempt a 3-pointer. 
 
