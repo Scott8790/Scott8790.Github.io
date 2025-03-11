@@ -1,7 +1,11 @@
 # Welcome to My Portfolio
-I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize some of these programs to analyze data.
+I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize these programs to analyze data.
 <img src="images/software_skills_logos.png"/>
 ---
+# [CLICK HERE to read full article](/NBA_project.md)
+<img src="NBA_project_visuals/NBA_titleimage.png"/>
+
+### Putting myself in the shoes of an NBA team manager to analyze season performance. This 2021-2022 NBA dataset had plenty of stats to go through and contemplate decisions to improve my team for next season. I created four insightful data visualizations using Tableau. 
 
 # [CLICK HERE to read full article](/healthcare.md)
 <img src="healthcare_visuals/titleimage.jpg"/>
