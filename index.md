@@ -2,6 +2,11 @@
 I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize these programs to analyze data.
 <img src="images/software_skills_logos.png"/>
 ---
+# [CLICK HERE to read full article](/mining.md)
+<img src="mining_visuals/Title_image.png"/>
+
+### I was tasked to analyze mining data for the boss of a fictitious mining company, Metals R Us. The dataset spanned over a few months but there was one date in question that the boss wanted some information on. I used python for this project to clean and analyze the data provided to me. 
+
 # [CLICK HERE to read full article](/NBA_project.md)
 <img src="NBA_project_visuals/NBA_titleimage.png"/>
 
