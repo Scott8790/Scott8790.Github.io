@@ -11,9 +11,9 @@ My love for statistics inspired me to embark on this project. I’ve always enjo
 In this article, you’ll learn about employee attrition trends based on my analysis. You’ll discover surprising insights about age, income, and what those might mean for businesses. I’ll share key findings, explain the analysis process, and highlight how data can help us make better decisions regarding employee retention.
 
 ### Key Takeaways
-Younger employees tend to leave more often than older employees.
-There is a weak correlation between age and monthly income.
-A linear regression analysis shows that age can explain about 25% of the variance in monthly income.
+- Younger employees tend to leave more often than older employees.
+- There is a weak correlation between age and monthly income.
+- A linear regression analysis shows that age can explain about 25% of the variance in monthly income.
 
 ### Dataset Details
 The data I used came from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset), which is a fantastic resource for datasets. It included information on 1,470 employees, featuring 35 variables like age, attrition status, monthly income, and yearly income. This dataset was perfect for my project because it provided a comprehensive view of employee demographics and behaviors.
