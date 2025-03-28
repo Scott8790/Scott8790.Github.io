@@ -33,12 +33,12 @@ Correlation Matrix
 The highest value was 0.7729 showing the correlation between monthly income and total working years. This logically makes sense because typically the longer you work somewhere the more money you will make. Most of the other values in the matrix were 0.3 or less indicating a weak relationship. Sadly, this matrix really leaves us with more questions to be asked then revealing any helpful insights.
 
 Scatterplots 
-
+<img src="HR_visuals/Scatterplot_matrix.png?raw=true"/>
 
 When I first saw this, I had trouble understanding how to read it. The boxes with the text indicate the written variable for both that row and column that it is displayed in. The first and rather obvious trend you should see is the positive relationship between age and total working years (see the middle four boxes). I was surprised to see age and monthly income scattered all over the place. It was nice to see some younger employees making more money than some older ones.
 
 Hypothesis Testing and Age Distribution Boxplot 
-
+<img src="HR_visuals/boxplot.png?raw=true"/>
 
 The boxplot comparing the age of those who left versus those who stayed was revealing. I was thrilled to find a statistically significant difference, which confirmed my hypothesis that younger employees are more likely to leave. This insight can help HR teams target retention strategies better.
 
@@ -46,15 +46,13 @@ The boss was curious to see if age was the main reason for people leaving their 
 
 In R, I tested this what's called a Welch Two Sample t-test. Basically, we have one sample that did leave, and one sample that did stay. I compared the average ages of these two samples and calculate a p-value.
 
-
-
+<img src="HR_visuals/t_test.png?raw=true"/>
 
 Because p is less than 0.05, there is a statistically significant difference between the two samples. Those who left were younger than those who stayed! We can see that in the mean comparison at the bottom. Note that x is the first array we passed in and y is the second array we passed in. That is also confirmed in the confidence interval, since both those numbers listed below are negative, we know that the first array is smaller than the second, with confidence.
 
 Linear Regression 
 
-
-
+<img src="HR_visuals/linear_regression.png?raw=true"/>
 
 The linear regression analysis showed that age could explain about 25% of the variance in monthly income. This explained quite a bit about income trends, but it also left me curious about what other factors might contribute to attrition.
 
@@ -69,6 +67,6 @@ I hope readers get more curious about statistics. This information can be of gre
 I hope this exploration inspires you to look more closely at the stories behind the numbers in your own work. If you’re curious about how to apply these insights, let’s connect!
 
 ### Call To Action
-If you found this analysis engaging, I’d love to hear your thoughts! Connect with me on LinkedIn, and if you or someone you know is looking to hire a data analyst, let’s chat! Feel free to leave a comment with your questions or insights.
+If you found this analysis engaging, I’d love to hear your thoughts! Connect with me on [LinkedIn](https://www.linkedin.com/in/smsilvey/), and if you or someone you know is looking to hire a data analyst, let’s chat! Feel free to leave a comment with your questions or insights.
 
 [<img src="images/Button.jpg?raw=true"/>](/index.md)
