@@ -2,6 +2,12 @@
 I am proficient in the following software and I am always curious and willing to learn new skills in these programs. Keep scrolling to see some of my projects where I utilize these programs to analyze data.
 <img src="images/software_skills_logos.png"/>
 ---
+
+# [CLICK HERE to read full article](/HR.md)
+<img src="HR_visuals/Title_image.png"/>
+
+### I looked over and analyzed some HR department data to see if any statistical trends could explain employee attrition within the company. There were some interesting discoveries within the data. I used R to conduct some stat analysis and create some data visualizations.
+
 # [CLICK HERE to read full article](/mining.md)
 <img src="mining_visuals/Title_image.png"/>
 
