@@ -3,6 +3,11 @@ I am proficient in the following software and I am always curious and willing to
 <img src="images/software_skills_logos.png"/>
 ---
 
+# [CLICK HERE to read full article](supplychain.md)
+<img src="supplychain_visuals/Titleimage.png"/>
+
+### Used Power BI to create some interesting charts to help analyze some supply chain data. This data came from a real-life scenario so it was fun to play with real-world data. The stakeholders were pleased with my findings.  
+
 # [CLICK HERE to read full article](/HR.md)
 <img src="HR_visuals/Title_image.png"/>
 
